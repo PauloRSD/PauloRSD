@@ -15,12 +15,12 @@
     *Também possuo conhecimento em outras ferramentas como: Postgres, MySQL, Firebase, AWS, C# entre outras...*
 
 - ### Interesses:
-    - **Desenvolvimento web (Meu foco como desenvolvedor)**
-    - Desenvolvimento de games
-    - AR/VR - Realidade virtual
+    - 🖥️ **Desenvolvimento web (Meu foco como desenvolvedor)**
+    - 🕹️ Desenvolvimento de games
+    - 👁️ AR/VR - Realidade virtual
 
 - ### No momento estou aprendendo:
-    - Padrões avançados de projeto em React
+    - ⚛️ Padrões avançados de projeto em React
     - Java
     - DevOps
     - Inglês
