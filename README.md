@@ -11,6 +11,8 @@
     - ⚛️ React 
     - 💚 Node
     - 💾 Directus
+    - GraphQL
+    - Gatsby
     
     *Também possuo conhecimento em outras ferramentas como: Postgres, MySQL, Firebase, AWS, C# entre outras...*
 
