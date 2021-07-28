@@ -7,7 +7,7 @@
 
 - ### Habilidades:
     *Consigo desenvolver aplicações web utilizando:*
-    - 💛 Javascript (com HTML + CSS)
+    - 💛 Javascript (com ~~ou sem~~ HTML + CSS)
     - ⚛️ React 
     - 💚 Node
     - 💾 Directus
