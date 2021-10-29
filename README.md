@@ -1,5 +1,5 @@
 # Paulo Reis -@PauloRSD
-👋 Olá! Me chamo Paulo! Sou ~Desenvolvedor Front-End~ Analista de Sistemas na eNe Soluções.
+👋 Olá! Me chamo Paulo! Sou Desenvolvedor Front-End na Runrun.it.
 
 ## Sobre mim
 - ### Formação:
