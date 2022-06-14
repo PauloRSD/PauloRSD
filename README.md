@@ -10,7 +10,6 @@
     - 💛 Javascript (com ~~ou sem~~ HTML + CSS)
     - ⚛️ React 
     - 💚 Node
-    - 💾 Directus
     - GraphQL
     - Gatsby
     
@@ -20,12 +19,6 @@
     - 🖥️ **Desenvolvimento web (Meu foco como desenvolvedor)**
     - 🕹️ Desenvolvimento de games
     - 👁️ AR/VR - Realidade virtual
-
-- ### No momento estou aprendendo:
-    - ⚛️ Padrões avançados de projeto em React
-    - Java
-    - DevOps
-    - Inglês
 
 - ### Contato:
     - LinkedIn: https://www.linkedin.com/in/paulo-rsd/
