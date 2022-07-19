@@ -2,7 +2,7 @@
 👋 Olá! Me chamo Paulo! Sou Desenvolvedor Front-End na Runrun.it.
 
 ### Contato:
-    - LinkedIn: https://www.linkedin.com/in/paulo-rsd/
+    LinkedIn: https://www.linkedin.com/in/paulo-rsd/
 
 <!---
 PauloRSD/PauloRSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
