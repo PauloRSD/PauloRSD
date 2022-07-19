@@ -1,26 +1,7 @@
 # Paulo Reis -@PauloRSD
 👋 Olá! Me chamo Paulo! Sou Desenvolvedor Front-End na Runrun.it.
 
-## Sobre mim
-- ### Formação:
-    Estou cursando o bacharelado em Sistemas de Informação na Universidade Federal de Uberlândia (UFU).
-
-- ### Habilidades:
-    *Consigo desenvolver aplicações web utilizando:*
-    - 💛 Javascript (com ~~ou sem~~ HTML + CSS)
-    - ⚛️ React 
-    - 💚 Node
-    - GraphQL
-    - Gatsby
-    
-    *Também possuo conhecimento em outras ferramentas como: Postgres, MySQL, Firebase, AWS, C# entre outras...*
-
-- ### Interesses:
-    - 🖥️ **Desenvolvimento web (Meu foco como desenvolvedor)**
-    - 🕹️ Desenvolvimento de games
-    - 👁️ AR/VR - Realidade virtual
-
-- ### Contato:
+### Contato:
     - LinkedIn: https://www.linkedin.com/in/paulo-rsd/
 
 <!---
